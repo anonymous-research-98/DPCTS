@@ -1,0 +1,5 @@
+Anonymous code repository for the paper:
+
+"Deep Poisson Case Time Series (DPCTS)"
+
+The full implementation will be released after the review process.
